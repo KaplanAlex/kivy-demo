@@ -12,8 +12,30 @@ pip install kivy
 
 ## Multi-Screen Application
 
+A three screen application with a few features
+
 ### Usage
 
 ```
-cd multi-screen && python main.py
+cd three_screen && python main.py
+```
+
+## Calculator
+
+A simple calculator built with Kivy
+
+### Usage
+
+```
+cd calculator && python main.py
+```
+
+## Widgets
+
+A single page application with many widgets
+
+### Usage
+
+```
+cd widget_demo && python kivytut.py
 ```
