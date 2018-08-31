@@ -10,6 +10,9 @@ This projectrequires kivy and python 3.5+. Kivy can be installed with:
 pip install kivy
 ```
 
+Make sure you return to the home directory before running the
+command to start each application
+
 ## Multi-Screen Application
 
 A three screen application with a few features
