@@ -1,9 +1,12 @@
+# Globaly set all labels to include MEIRYO font for Japanese character support
 <Label>:
     font_name: '../MEIRYO.TTC'
 
+# Create a custom black label 
 <CustLabel@Label>:
     color: 0, 0, 0, 1
 
+# Create a popup
 <CustomPopup>:
     size_hint: .5, .5
     auto_dismiss: False
@@ -141,7 +144,7 @@
         Label:
             text: ""
 
-            
+# Properties for the DateClock label class            
 <DateClock>:
     font_size: 70
     color: (0, 0, 0, 1)

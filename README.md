@@ -11,7 +11,7 @@ pip install kivy
 ```
 
 Make sure you return to the home directory before running the
-command to start each application
+command to start each application.
 
 ## Multi-Screen Application
 
